@@ -1,3 +1,6 @@
+# Adversarial Contrastive Graph Augmentation with Counterfactual Regularization
+Implementation for AAAI'25 paper: Adversarial Contrastive Graph Augmentation with Counterfactual Regularization
+
 #### environment install:
 
 ```
